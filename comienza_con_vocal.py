@@ -2,7 +2,7 @@
 Inserta el encabezado aquí y escribe tu código abajo
 """
 # Declaraciones
-print("Escribe una palabra:")
+#print("Escribe una palabra:")
 
 # Entradas
 texto = input()
