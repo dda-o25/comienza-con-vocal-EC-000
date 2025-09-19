@@ -1,15 +1,17 @@
 """
 Inserta el encabezado aquí y escribe tu código abajo
 """
-
 # Declaraciones
-CONSTANTE = valor
+print("Escribe una palabra:")
 
 # Entradas
-entrada = input()
-
+texto = input()
 # Proceso
-
+resultado = (texto[0].lower() in "aeiou")
 
 # Salidas
-print(salida)
+if resultado == True:
+    print(texto,"inicia con vocal")
+
+else:
+    print(texto,"no inicia con vocal")
