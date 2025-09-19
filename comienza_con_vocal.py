@@ -1,5 +1,6 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+El propósito de este código es de comporbar si cualquier palabra escrita en el inicia con una vocal o no
+Eduardo Caleb Castillo Llanas 18/Sep/25
 """
 
 # Declaraciones
