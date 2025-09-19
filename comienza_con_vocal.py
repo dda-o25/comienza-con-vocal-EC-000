@@ -7,11 +7,11 @@ Inserta el encabezado aquí y escribe tu código abajo
 # Entradas
 texto = input()
 # Proceso
-resultado = (texto[0].lower() in "aeiou")
+resultado = (texto[0].lower() in "aeiouáéíóúü")
 
 # Salidas
 if resultado == True:
-    print(texto,"inicia con vocal")
+    print(texto,"comienza con vocal")
 
 else:
-    print(texto,"no inicia con vocal")
+    print(texto,"no comienza con vocal")
